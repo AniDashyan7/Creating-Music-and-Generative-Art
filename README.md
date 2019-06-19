@@ -1,1 +1,1 @@
-# prog3
+# Craeting Music and Generative Art
